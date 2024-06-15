@@ -1,0 +1,3 @@
+- [Dataset 1](https://www.kaggle.com/datasets/biancaferreira/african-wildlife)
+- [Dataset 2](https://www.kaggle.com/datasets/brsdincer/danger-of-extinction-animal-image-set)
+- [Dataset 3](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset )
